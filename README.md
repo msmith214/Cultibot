@@ -10,7 +10,7 @@ The following commands may be of use to you:</br>
 <b>/inv</b> This command shows your inventory of items.</br>
 
 <h2>Mechanics</h2>
-Plants "grow" once every "tick" (which happens at the top of every hour) for 24 hours. Plants normally grow by 0.8 to 1.2 inches every hour multiplied by a growth rate (base x1.25), but this growth rate can be increased by items purchased from the shop or obtained using the /rummage command (which sometimes yields quartz shards, the shop's currency, instead of items.)
+Plants "grow" once every "tick" (which happens at the top of every hour) for 24 hours. Plants normally grow by 0.9 to 1.1 inches every hour multiplied by a growth rate (base x1.25), but this growth rate can be increased by items purchased from the shop or obtained using the /rummage command (which sometimes yields quartz shards, the shop's currency, instead of items.)
 Plants also belong to one of five types: Flower, Gourd, Veggie, Tuber, or Miscellaneous. It starts as a Miscellaneous plant and develops into a Flower, Gourd, Veggie, or Tuber if you interact with it predominantly by socializing, venting, encouraging, or complimenting it respectively.
 Shopkeepers also rotate based on time (morning/afternoon vs evening/night) and day (weekday vs weekend), though this is purely for flavor.
 
