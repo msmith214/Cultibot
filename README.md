@@ -12,6 +12,7 @@ The following commands may be of use to you:</br>
 <h2>Mechanics</h2>
 Plants "grow" once every "tick" (which happens at the top of every hour) for 24 hours. Plants normally grow by 1.25 inches every hour, but this rate can be increased by items purchased from the shop or obtained using the /rummage command (which sometimes yields quartz shards, the shop's currency, instead of items.)
 Plants also belong to one of five types: Flower, Gourd, Veggie, Tuber, or Miscellaneous. It starts as a Miscellaneous plant and develops into a Flower, Gourd, Veggie, or Tuber if you interact with it predominantly by socializing, venting, encouraging, or complimenting it respectively.
+Shopkeepers also rotate based on time (morning/afternoon vs evening/night) and day (weekday vs weekend), though this is purely for flavor.
 
 <h2>Shop Items</h2>
 The following items can appear in the shop:</br>
@@ -21,14 +22,14 @@ The following items can appear in the shop:</br>
 |Non-GMO Water|5 quartz|Increases your plant's growth by 0.2 inches for one tick.|
 |Sunshine in a Bag|5 quartz|Increases your plant's growth by 0.2 inches for one tick.|
 |Free-Range Water|5 quartz|Increases your plant's growth by 0.2 inches for one tick.|
-|Vegetarian Water|5 quartz|Increases your plant's growth by 0.3 inches for one tick.|
-|Liquid Sunshine|5 quartz|Increases your plant's growth by 0.3 inches for one tick.|
-|Broken Wind|5 quartz|Increases your plant's growth by 0.3 inches for one tick.|
-|Uncle Ray's Sun Tablets|5 quartz|Increases your plant's growth by 0.4 inches for one tick.|
-|"Water You Waiting For?" Brand Dihydrogen Monoxide|5 quartz|Increases your plant's growth by 0.4 inches for one tick.|
-|Ethically Sourced Breeze|5 quartz|Increases your plant's growth by 0.4 inches for one tick.|
-|Flower Power Fertilizer|5 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Flower, in which case it increases your plant's growth by 0.5 inches for one tick.|
-|Veggie Might Fertilizer|5 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Veggie, in which case it increases your plant's growth by 0.5 inches for one tick.|
-|Oh My Gourd Fertilizer|5 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Gourd, in which case it increases your plant's growth by 0.5 inches for one tick.|
-|Fronds in High Places Fertilizer|5 quartz|Increases your plant's growth by 0.5 inches for one tick, unless it's a Flower, Veggie, Gourd, or Tuber, in which case it increases your plant's growth by 0.1 inches for one tick.|
-|Tuber or Not Tuber Fertilizer|5 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Tuber, in which case it increases your plant's growth by 0.5 inches for one tick.|
+|Vegetarian Water|10 quartz|Increases your plant's growth by 0.3 inches for one tick.|
+|Liquid Sunshine|10 quartz|Increases your plant's growth by 0.3 inches for one tick.|
+|Broken Wind|10 quartz|Increases your plant's growth by 0.3 inches for one tick.|
+|Uncle Ray's Sun Tablets|15 quartz|Increases your plant's growth by 0.4 inches for one tick.|
+|"Water You Waiting For?" Brand Dihydrogen Monoxide|15 quartz|Increases your plant's growth by 0.4 inches for one tick.|
+|Ethically Sourced Breeze|15 quartz|Increases your plant's growth by 0.4 inches for one tick.|
+|Flower Power Fertilizer|20 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Flower, in which case it increases your plant's growth by 0.5 inches for one tick.|
+|Veggie Might Fertilizer|20 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Veggie, in which case it increases your plant's growth by 0.5 inches for one tick.|
+|Oh My Gourd Fertilizer|20 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Gourd, in which case it increases your plant's growth by 0.5 inches for one tick.|
+|Fronds in High Places Fertilizer|25 quartz|Increases your plant's growth by 0.5 inches for one tick, unless it's a Flower, Veggie, Gourd, or Tuber, in which case it increases your plant's growth by 0.1 inches for one tick.|
+|Tuber or Not Tuber Fertilizer|20 quartz|Increases your plant's growth by 0.1 inches for one tick, unless it's a Tuber, in which case it increases your plant's growth by 0.5 inches for one tick.|
